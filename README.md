@@ -1,7 +1,7 @@
 # Competitive-coding-practice
 Competitive programming standard problems
 
-## Sliding Window
+## 1. Sliding Window
 * Maximum Sum Subarray of Size K 
 * Smallest Subarray with a given sum 
 * Longest Substring with maximum K Distinct Characters 
@@ -15,7 +15,7 @@ Competitive programming standard problems
 * Words Concatenation
 
 
-## Two pointers
+## 2. Two pointers
 * Pair with Target Sum 
 * Remove Duplicates
 * Squaring a Sorted Array
@@ -29,7 +29,7 @@ Competitive programming standard problems
 * Minimum Window Sort
 
 
-## Fast and Slow pointers
+## 3. Fast and Slow pointers
 * LinkedList Cycle 
 * Start of LinkedList Cycle 
 * Happy Number 
@@ -39,7 +39,7 @@ Competitive programming standard problems
 * Cycle in a Circular Array
 
 
-## Merge Intervals
+## 4. Merge Intervals
 * Merge Intervals 
 * Insert Interval 
 * Intervals Intersection 
