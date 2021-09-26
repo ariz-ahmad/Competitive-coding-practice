@@ -154,16 +154,7 @@ Competitive programming standard problems
 * K Pairs with Largest Sums
 
 
-## 15.  0/1 Knapsack (Dynamic Programming)
-* 0/1 Knapsack 
-* Equal Subset Sum Partition 
-* Subset Sum 
-* Minimum Subset Sum Difference 
-* Count of Subset Sum
-* Target Sum
-
-
-## 16. Topological Sort (Graph)
+## 15. Topological Sort (Graph)
 * Topological Sort 
 * Tasks Scheduling 
 * Tasks Scheduling Order 
@@ -173,5 +164,5 @@ Competitive programming standard problems
 * Minimum Height Trees 
 
 
-## 17. Miscellaneous
+## 16. Miscellaneous
 * Kth Smallest Number 
