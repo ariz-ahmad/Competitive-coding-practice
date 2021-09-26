@@ -49,7 +49,7 @@ Competitive programming standard problems
 * Employee Free Time
 
 
-## 5. Pattern: Cyclic Sort
+## 5. Cyclic Sort
 * Cyclic Sort 
 * Find the Missing Number 
 * Find all Missing Numbers 
@@ -60,7 +60,7 @@ Competitive programming standard problems
 * Find the First K Missing Positive Numbers
 
 
-## 6. Pattern: In-place Reversal of a LinkedList
+## 6. In-place Reversal of a LinkedList
 * Reverse a LinkedList 
 * Reverse a Sub-list 
 * Reverse every K-element Sub-list 
@@ -68,7 +68,7 @@ Competitive programming standard problems
 * Rotate a LinkedList 
 
 
-## 7. Pattern: Tree Breadth First Search
+## 7. Tree Breadth First Search
 * Binary Tree Level Order Traversal 
 * Reverse Level Order Traversal 
 * Zigzag Traversal 
@@ -80,7 +80,7 @@ Competitive programming standard problems
 * Right View of a Binary Tree
 
 
-## 8. Pattern: Tree Depth First Search
+## 8. Tree Depth First Search
 * Binary Tree Path Sum 
 * All Paths for a Sum 
 * Sum of Path Numbers 
@@ -90,14 +90,14 @@ Competitive programming standard problems
 * Path with Maximum Sum
 
 
-## 9. Pattern: Two Heaps
+## 9. Two Heaps
 * Find the Median of a Number Stream 
 * Sliding Window Median 
 * Maximize Capital 
 * Next Interval
 
 
-## 10. Pattern: Subsets
+## 10. Subsets
 * Subsets 
 * Subsets With Duplicates 
 * Permutations 
@@ -109,7 +109,7 @@ Competitive programming standard problems
 * Count of Structurally Unique Binary Search Trees
 
 
-## 11. Pattern: Modified Binary Search
+## 11. Modified Binary Search
 * Order-agnostic Binary Search 
 * Ceiling of a Number 
 * Next Letter 
@@ -122,14 +122,14 @@ Competitive programming standard problems
 * Rotation Count
 
 
-## 12. Pattern: Bitwise XOR
+## 12. Bitwise XOR
 * Single Number 
 * Two Single Numbers 
 * Complement of Base 10 Number 
 * Flip the image horizontally, then invert it.
 
 
-## 13. Pattern: Top 'K' Elements
+## 13. Top 'K' Elements
 * Top 'K' Numbers 
 * Kth Smallest Number 
 * 'K' Closest Points to the Origin 
@@ -146,7 +146,7 @@ Competitive programming standard problems
 * Frequency Stack
 
 
-## 14. Pattern: K-way merge
+## 14. K-way merge
 * Merge K Sorted Lists 
 * Kth Smallest Number in M Sorted Lists 
 * Kth Smallest Number in a Sorted Matrix 
@@ -154,7 +154,7 @@ Competitive programming standard problems
 * K Pairs with Largest Sums
 
 
-## 15. Pattern : 0/1 Knapsack (Dynamic Programming)
+## 15.  0/1 Knapsack (Dynamic Programming)
 * 0/1 Knapsack 
 * Equal Subset Sum Partition 
 * Subset Sum 
@@ -163,7 +163,7 @@ Competitive programming standard problems
 * Target Sum
 
 
-## 16. Pattern: Topological Sort (Graph)
+## 16. Topological Sort (Graph)
 * Topological Sort 
 * Tasks Scheduling 
 * Tasks Scheduling Order 
